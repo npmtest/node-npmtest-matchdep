@@ -1,4 +1,7 @@
-# test coverage for  [matchdep (v1.0.1)](https://github.com/tkellen/node-matchdep)  [![npm package](https://img.shields.io/npm/v/npmtest-matchdep.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-matchdep) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-matchdep.svg)](https://travis-ci.org/npmtest/node-npmtest-matchdep)
+# npmtest-matchdep
+
+#### test coverage for  [matchdep (v1.0.1)](https://github.com/tkellen/node-matchdep)  [![npm package](https://img.shields.io/npm/v/npmtest-matchdep.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-matchdep) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-matchdep.svg)](https://travis-ci.org/npmtest/node-npmtest-matchdep)
+
 #### Use globule to filter npm module dependencies by name.
 
 [![NPM](https://nodei.co/npm/matchdep.png?downloads=true&downloadRank=true&stars=true)](https://www.npmjs.com/package/matchdep)
