@@ -1,6 +1,6 @@
 {
     "author": "kai zhu <kaizhu256@gmail.com>",
-    "description": "#### test coverage for  [matchdep (v1.0.1)](https://github.com/tkellen/node-matchdep)  [![npm package](https://img.shields.io/npm/v/npmtest-matchdep.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-matchdep) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-matchdep.svg)](https://travis-ci.org/npmtest/node-npmtest-matchdep)",
+    "description": "#### basic test coverage for  [matchdep (v1.0.1)](https://github.com/tkellen/node-matchdep)  [![npm package](https://img.shields.io/npm/v/npmtest-matchdep.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-matchdep) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-matchdep.svg)](https://travis-ci.org/npmtest/node-npmtest-matchdep)",
     "devDependencies": {
         "electron-lite": "kaizhu256/node-electron-lite#alpha",
         "matchdep": "*",
@@ -36,5 +36,5 @@
         "start": "(set -e; export PORT=${PORT:-8080}; utility2 start test.js)",
         "test": "(set -e; export PORT=$(utility2 shServerPortRandom); utility2 test test.js)"
     },
-    "version": "0.0.2"
+    "version": "2017.4.27"
 }
